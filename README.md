@@ -1,3 +1,3 @@
 # renoise-themes
 
-- [Sand (contrast)](./sand (contrast)/)
+- [Sand (contrast)](./sand%20(contrast))
