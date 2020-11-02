@@ -2,7 +2,7 @@
 
 This is intended as a "calm" theme with enough contrast to make it immediately clear where short-lived focus currently is. It's primarily contextually contrasted sand/dark reds for main stretches of UI, with blues for areas that see manipulation. Focus is forced using the most obvious of greens.
 
-[load the .xrnc file](https://raw.githubusercontent.com/Pomax/renoise-themes/main/sand%20(contrast)/sand%20(contrast).xrnc) and then just tell your browser to save.
+To install, open the [link to the .xrnc file](https://raw.githubusercontent.com/Pomax/renoise-themes/main/sand%20(contrast)/sand%20(contrast).xrnc), tell your browser to save that file, and then drag it onto Renoise to have it install the theme.
 
 # Screenshots
 
