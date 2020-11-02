@@ -8,8 +8,6 @@ This is intended as a "calm" theme with enough contrast to make it immediately c
 
 ![screenshot 506](https://user-images.githubusercontent.com/177243/97910684-f1dd1180-1cfe-11eb-89ef-6d22b8d23269.png)
 
-![screenshot 507](https://user-images.githubusercontent.com/177243/97910694-f3a6d500-1cfe-11eb-8cc2-1a69289efe8d.png)
-
 ## Mix interface
 
 ![screenshot 508](https://user-images.githubusercontent.com/177243/97910703-f4d80200-1cfe-11eb-9ff7-e951cda186b4.png)
